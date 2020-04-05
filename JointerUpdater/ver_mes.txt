@@ -1,1 +1,2 @@
+[Fix] Improved optimization
 [Add] Logs of updates
