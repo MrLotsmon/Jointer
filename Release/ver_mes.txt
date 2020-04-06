@@ -1,3 +1,4 @@
-[Fix] Optimization 
-[Fix] Crashs on changing Menu accent
-[Add] Select ESP box styles
+[Fixes] Optimization 
+[Fixes] Fixes Visivility check in Aimbot features
+[Fixes] Crashs on changing Menu accent
+[Added] Options for crosshair
