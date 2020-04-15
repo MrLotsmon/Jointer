@@ -1,2 +1,2 @@
-[Fix] Improved optimization
-[Add] Logs of updates
+[Fixed] Updating JointerUpdater
+[Added] Support for Jointer 0.5.0.0 

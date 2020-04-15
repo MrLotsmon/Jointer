@@ -1,4 +1,7 @@
-[Fixes] Optimization 
-[Fixes] Fixes Visivility check in Aimbot features
-[Fixes] Crashs on changing Menu accent
-[Added] Options for crosshair
+[Added] New Interface
+[Added] Fakelag (VAC)
+[Added] Show wins in RevealRanks
+[Added] More ESP features
+[Added] Glow ESP (VAC)
+[Added] Saving Config (only JumpsCounter)
+[Fixed] Optimization
