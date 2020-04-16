@@ -1,2 +1,5 @@
+[Added] ForceStart
+[Added] Process checker
+[Added] Delete function (hav bugs)
 [Fixed] Updating JointerUpdater
 [Fixed] Some bugs
