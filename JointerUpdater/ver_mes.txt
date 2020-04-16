@@ -1,2 +1,2 @@
 [Fixed] Updating JointerUpdater
-[Added] Support for Jointer 0.5.0.0 
+[Fixed] Some bugs
