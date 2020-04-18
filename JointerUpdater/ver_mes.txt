@@ -1,5 +1,2 @@
-[Added] ForceStart
-[Added] Process checker
-[Added] Delete function (hav bugs)
+[Added] Pre Start Time
 [Fixed] Updating JointerUpdater
-[Fixed] Some bugs
