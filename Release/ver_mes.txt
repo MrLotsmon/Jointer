@@ -1,7 +1,9 @@
-[Added] New Interface
-[Added] Fakelag (VAC)
-[Added] Show wins in RevealRanks
-[Added] More ESP features
-[Added] Glow ESP (VAC)
-[Added] Saving Config (only JumpsCounter)
-[Fixed] Optimization
+[Fixex] Optimization
+[Fixed] Trigger
+[Added] Trigger Fullpower
+[Added] Aimbot bone select
+[Added] Error shower
+[Added] Check InGame
+[Deleted] Show team name
+
+ 
