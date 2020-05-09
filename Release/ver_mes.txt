@@ -1,4 +1,5 @@
 [Fixed] Check InGame
+[Fixed] Trigger
 [Edited] TriggerPower
 [Added] Show Version
  
