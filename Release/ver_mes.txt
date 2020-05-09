@@ -1,9 +1,4 @@
-[Fixex] Optimization
-[Fixed] Trigger
-[Added] Trigger Fullpower
-[Added] Aimbot bone select
-[Added] Error shower
-[Added] Check InGame
-[Deleted] Show team name
-
+[Fixed] Check InGame
+[Edited] TriggerPower
+[Added] Show Version
  
