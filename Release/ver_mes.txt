@@ -1,5 +1,2 @@
-[Fixed] Check InGame
-[Fixed] Trigger
-[Edited] TriggerPower
-[Added] Show Version
+[Added] New autoupdate, go update JointerUpdater to EnirAPIUpdater
  
