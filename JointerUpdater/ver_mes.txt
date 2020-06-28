@@ -1,3 +1,0 @@
-[Delete] JointerUpdater
-Delete files & directories in "Documents/JointerUpdater", "C:\Users\$You$\AppData\Local\JointerUpdater"
-This update is New Auth System & Updates
