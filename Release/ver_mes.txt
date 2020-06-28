@@ -1,2 +1,0 @@
-[Added] New autoupdate, go update JointerUpdater to EnirAPIUpdater
- 
